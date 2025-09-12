@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[3227]Vowels Game in a String.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[3227]Vowels Game in a String.md" />
+              <option name="frontendQuestionId" value="leetcode.com3227" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/[3227]Vowels Game in a String.py" />
+              <option name="titleSlug" value="vowels-game-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
