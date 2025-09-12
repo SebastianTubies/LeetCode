@@ -49,6 +49,18 @@
 
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
+
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+
+        length_nums = len(nums)
+
+        for summand1 in range(length_nums - 1):
+
+            for summand2 in range(summand1 + 1, length_nums):
+
+                if nums[summand1] + nums[summand2] == target:
+
+                    return [summand1, summand2]
+        return []
         
 # leetcode submit region end(Prohibit modification and deletion)
