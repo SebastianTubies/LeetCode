@@ -66,6 +66,7 @@
 
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
+
     def maxFreqSum(self, s: str) -> int:
 
         counts = [0] * 26
